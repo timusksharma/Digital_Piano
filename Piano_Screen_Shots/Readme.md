@@ -1,1 +1,1 @@
-This Folder contain All Screen Shots of Piano
+This Folder contains All Screen Shots of Piano
