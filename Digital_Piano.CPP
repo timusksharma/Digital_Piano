@@ -8,7 +8,6 @@
 #include<fstream.h>
 #include <stdlib.h>
 
-
 class Main
 { int n,a,x,d;
 public:
