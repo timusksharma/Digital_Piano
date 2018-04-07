@@ -30,6 +30,7 @@ outtextxy(100,50,"Thank You");
 outtextxy(100,150,"For Playing");
 outtextxy(100,250,"This Piano.");
 }
+
 //----------------------------------------------------------
 void frame()
 {//frame
